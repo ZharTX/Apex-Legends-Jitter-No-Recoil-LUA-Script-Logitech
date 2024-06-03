@@ -5,7 +5,7 @@ LUA Script Logitech can help you to reduce weapons recoil in the shooting games 
 
 **How to Activate it:** Hold forward button + Left Click
 
-Premium Version on **foregx.com** Features:
+Premium Version on **https://foregx.com** Features:
 > Secure & Undetected |
 > No Recoil 99,9% |
 > Costume Button |
